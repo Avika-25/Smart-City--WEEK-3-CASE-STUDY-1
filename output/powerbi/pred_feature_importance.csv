@@ -1,0 +1,21 @@
+feature,importance
+hour,0.2145
+dow_num,0.1449
+month,0.1211
+traffic_density_High,0.04
+traffic_density_Moderate,0.0365
+road_condition_Icy,0.0361
+road_condition_Wet,0.0357
+traffic_density_Low,0.0352
+weather_Storm,0.0347
+road_condition_Dry,0.0301
+location_Industrial Area,0.03
+weather_Snow,0.0295
+road_condition_Under Construction,0.0286
+weather_Clear,0.0284
+location_Suburbs,0.028
+weather_Rain,0.0277
+weather_Fog,0.0261
+location_Highway,0.0251
+location_Residential Zone,0.0246
+location_Downtown,0.0232

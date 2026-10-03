@@ -1,0 +1,8 @@
+factor,p_value,linked
+vehicle_type,0.0431,True
+location,0.0728,False
+weather,0.0839,False
+traffic_density,0.136,False
+road_condition,0.2225,False
+time_band,0.5236,False
+peak_period,0.6947,False

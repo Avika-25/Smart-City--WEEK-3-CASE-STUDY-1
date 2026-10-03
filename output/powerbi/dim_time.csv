@@ -1,0 +1,25 @@
+﻿hour,time_band,peak_period,is_peak_hour
+0,Night,Off-Peak,0
+1,Night,Off-Peak,0
+2,Night,Off-Peak,0
+3,Night,Off-Peak,0
+4,Night,Off-Peak,0
+5,Night,Off-Peak,0
+6,Morning,Off-Peak,0
+7,Morning,Morning Peak,1
+8,Morning,Morning Peak,1
+9,Morning,Morning Peak,1
+10,Morning,Off-Peak,0
+11,Morning,Off-Peak,0
+12,Afternoon,Off-Peak,0
+13,Afternoon,Off-Peak,0
+14,Afternoon,Off-Peak,0
+15,Afternoon,Off-Peak,0
+16,Afternoon,Evening Peak,1
+17,Evening,Evening Peak,1
+18,Evening,Evening Peak,1
+19,Evening,Evening Peak,1
+20,Evening,Off-Peak,0
+21,Evening,Off-Peak,0
+22,Night,Off-Peak,0
+23,Night,Off-Peak,0

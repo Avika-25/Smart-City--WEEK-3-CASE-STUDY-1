@@ -1,0 +1,121 @@
+location,hour,prob_severe,rank
+Industrial Area,23,0.5359,1
+Industrial Area,18,0.5338,2
+Industrial Area,9,0.533,3
+Industrial Area,19,0.5328,4
+Industrial Area,5,0.5315,5
+Industrial Area,8,0.5313,6
+Industrial Area,22,0.5311,7
+Industrial Area,11,0.5293,8
+Industrial Area,12,0.5292,9
+Industrial Area,10,0.5289,10
+Industrial Area,17,0.5285,11
+Industrial Area,7,0.5279,12
+Industrial Area,6,0.5275,13
+Industrial Area,4,0.5262,14
+Industrial Area,21,0.526,15
+Industrial Area,20,0.526,16
+Industrial Area,16,0.5245,17
+Industrial Area,13,0.5243,18
+Industrial Area,15,0.5234,19
+Industrial Area,3,0.5231,20
+Industrial Area,14,0.5199,21
+Residential Zone,9,0.5171,22
+Residential Zone,5,0.514,23
+Suburbs,23,0.5138,24
+Residential Zone,11,0.5138,25
+Residential Zone,10,0.5137,26
+Highway,23,0.512,27
+Residential Zone,6,0.5117,28
+Residential Zone,8,0.5114,29
+Highway,11,0.5108,30
+Suburbs,22,0.509,31
+Highway,9,0.5086,32
+Highway,10,0.5082,33
+Residential Zone,7,0.5079,34
+Industrial Area,2,0.5077,35
+Highway,12,0.5076,36
+Residential Zone,1,0.5072,37
+Residential Zone,0,0.5072,38
+Residential Zone,23,0.507,39
+Highway,22,0.5069,40
+Residential Zone,12,0.5055,41
+Residential Zone,2,0.5048,42
+Industrial Area,1,0.5041,43
+Residential Zone,3,0.5038,44
+Residential Zone,4,0.5038,45
+Industrial Area,0,0.5037,46
+Highway,8,0.5033,47
+Residential Zone,22,0.5025,48
+Highway,13,0.5015,49
+Suburbs,11,0.501,50
+Highway,18,0.5009,51
+Suburbs,10,0.5004,52
+Suburbs,21,0.5004,53
+Highway,5,0.5002,54
+Highway,21,0.5,55
+Suburbs,19,0.5,56
+Highway,19,0.4995,57
+Highway,6,0.4995,58
+Highway,17,0.4994,59
+Highway,7,0.4993,60
+Suburbs,12,0.4991,61
+Suburbs,9,0.4989,62
+Highway,15,0.4986,63
+Residential Zone,18,0.4984,64
+Suburbs,20,0.4983,65
+Highway,20,0.4979,66
+Suburbs,18,0.4977,67
+Residential Zone,17,0.4976,68
+Residential Zone,19,0.4972,69
+Highway,16,0.4964,70
+Residential Zone,15,0.4962,71
+Residential Zone,13,0.4961,72
+Suburbs,15,0.4955,73
+Suburbs,17,0.4953,74
+Residential Zone,21,0.4952,75
+Suburbs,13,0.4948,76
+Highway,14,0.4943,77
+Residential Zone,16,0.4938,78
+Downtown,9,0.4937,79
+Downtown,11,0.4934,80
+Residential Zone,20,0.4934,81
+Suburbs,8,0.4926,82
+Suburbs,5,0.4925,83
+Suburbs,14,0.4913,84
+Suburbs,16,0.4913,85
+Downtown,10,0.4909,86
+Downtown,12,0.4894,87
+Suburbs,7,0.4885,88
+Suburbs,6,0.4884,89
+Residential Zone,14,0.4883,90
+Downtown,8,0.4872,91
+Suburbs,1,0.4862,92
+Suburbs,0,0.4862,93
+Highway,3,0.486,94
+Downtown,5,0.4859,95
+Highway,4,0.4858,96
+Highway,1,0.4852,97
+Suburbs,4,0.485,98
+Highway,2,0.485,99
+Downtown,7,0.4848,100
+Downtown,23,0.4844,101
+Highway,0,0.4838,102
+Suburbs,2,0.4829,103
+Downtown,6,0.4828,104
+Suburbs,3,0.4823,105
+Downtown,1,0.481,106
+Downtown,13,0.4809,107
+Downtown,0,0.4806,108
+Downtown,18,0.4797,109
+Downtown,22,0.4794,110
+Downtown,2,0.4781,111
+Downtown,15,0.4781,112
+Downtown,17,0.4781,113
+Downtown,19,0.4779,114
+Downtown,16,0.4765,115
+Downtown,3,0.4761,116
+Downtown,21,0.4759,117
+Downtown,4,0.4757,118
+Downtown,20,0.4751,119
+Downtown,14,0.474,120
